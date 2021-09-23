@@ -43,3 +43,7 @@ Point of sale software is used by the retailers to conduct sales in person. It's
 * Open the backend folder, and import it in your ide and run the application
 * Change the urls in the service layer of the frontend of both application
 * Change the urls in customer module backend in service layer for rest calls
+
+## Project Presentation Link:
+https://1drv.ms/p/s!AtgvU0td0j6Wgia2Ie_iaZ4qAlJd?e=3KkRvl
+
